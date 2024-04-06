@@ -1,6 +1,6 @@
 {
-  "name": "quick-todos-list",
-  "version": "1.0.0",
+  "name": "@mhdawaisrajput/my-todos-list",
+  "version": "1.0.1",
   "description": "This is my todos list using with Typescript, Nodejs, Inquirer",
   "main": "index.js",
   "type": "module",
