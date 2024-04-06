@@ -1,0 +1,19 @@
+{
+  "name": "quick-todos-list",
+  "version": "1.0.0",
+  "description": "This is my todos list using with Typescript, Nodejs, Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Awais",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
